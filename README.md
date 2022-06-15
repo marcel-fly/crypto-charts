@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The application displays a chart for one selected cryptocurrency: bitcoin, ethereum, polkadot, cardano and solana. The application was built using react, typescript and chartjs.Data is fetching from CoinGecko. 
 
 ## Available Scripts
 
